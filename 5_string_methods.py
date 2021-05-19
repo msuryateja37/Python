@@ -13,3 +13,10 @@ print(a.find("developer"))
 
 # If the sub-string is not found then it returns -1
 print(a.find("cat"))
+
+
+print("0123456".find('1'))
+name = 'Lizz'
+print(name[0:2])
+var = '01234567'
+print(var[::2])
